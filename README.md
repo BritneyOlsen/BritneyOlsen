@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BritneyOlsen
 - 👀 I’m interested in ... Graphic Design
-- 🌱 I’m currently learning ... Interactive Media Developmen
+- 🌱 I’m currently learning ... Interactive Media Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
